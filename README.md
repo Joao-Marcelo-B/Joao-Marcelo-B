@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, me chamo João Marcelo, espero que esteja bem!
+### Eu lhe dou as boas vindas ao meu GitHub 👋
 
 <!--
 **Joao-Marcelo-B/Joao-Marcelo-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
