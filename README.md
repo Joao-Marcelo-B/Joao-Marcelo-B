@@ -1,6 +1,8 @@
-### Olá, me chamo João Marcelo, espero que esteja bem!
-### Eu lhe dou as boas vindas ao meu GitHub 👋
+### <h1 align="center"> Olá, me chamo João Marcelo, espero que esteja bem! </h1>
+### <h2 align="center"> Seja bem vindo ao meu GitHub 👋 </h2>
 
+
+<p>Meu GitHub serve como um portifólio para demonstrar meus projetos que contém toda minha trajetória e experiências que são frutos dos meus estudos</p>
 <!--
 **Joao-Marcelo-B/Joao-Marcelo-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Marcelo-B&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Marcelo-B&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/Joao-Marcelo-B/Joao-Marcelo-B/blob/output/github-contribution-grid-snake.svg)
