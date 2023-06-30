@@ -2,9 +2,9 @@
 ### <h2 align="center"> Seja bem vindo ao meu GitHub 👋 </h2>
 
 
-<p>Meu GitHub serve como um portifólio para demonstrar meus projetos, neles contém toda minha trajetória e experiências, que são frutos dos meus estudos</p>
+<p>Meu GitHub serve como um portifólio para demonstrar meus projetos, neles contém toda minha trajetória, experiências e frutos dos meus estudos</p>
 
-<h3>Agora você pode me conhecer um pouco mais:</h3>
+<h3>Um pouco mais sobre mim: </h3>
 <p>- Moro em Alfenas/MG</p>
 <p>- Estudante de Ciência da Computação</p>
 <p>- Sou apaixonado em programação e estou sempre buscando meios de me atualizar e obter novos conhecimentos, estou focado em me tornar um ótimo programador e um também um ótimo profissional</p>
@@ -18,6 +18,10 @@
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> </code>
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+
+📚 Tenho estudado ASP.Net Core, C#, .NET, Entity Framework e LINQ para criação de APIs Web
+
+💪 Estou me empenhado bastante nos estudos pois espero conseguir um emprego como Desenvolvedor Back-end, e poder assim contribuir com meus conhecimentos e construir minha vida profissional o quanto antes, não vou medir esforços até alcançar meus objetivos !!!
 
 ## Contatos:
 
