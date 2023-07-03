@@ -1,4 +1,4 @@
-### <h1 align="center"> Olá, me chamo João Marcelo, espero que esteja bem! </h1>
+### <h1 align="center"> Olá, me chamo João Marcelo, é um prazer ter você aqui! </h1>
 ### <h2 align="center"> Seja bem vindo ao meu GitHub 👋 </h2>
 
 
