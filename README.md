@@ -2,7 +2,7 @@
 ### <h2 align="center"> Seja bem vindo ao meu GitHub 👋 </h2>
 
 
-<p>Meu GitHub serve como um portifólio para demonstrar meus projetos, neles contém toda minha trajetória e experiências obtidas por meio dos estudos de programação</p>
+<p>Meu GitHub serve como um portifólio com meus projetos, neles contém toda minha trajetória e experiências obtidas por meio dos estudos de programação</p>
 
 <h3>Um pouco mais sobre mim: </h3>
 <p>- Moro em Alfenas/MG</p>
