@@ -29,8 +29,14 @@
 
 <h4> É comum para um programador frustar-se e passar raiva corrigindo bugs, porém a cada erro cometido é um novo aprendizado e ao fim de cada bug resolvido e projeto finalizado é uma vitória que traz felicidade e satisfação para nós, e essa mistura de frustações e satisfação que deixa esse mundo da programação tão interessante a apaixonante.</h4>
 
-<div align="center">
-<a href="https://github.com/Joao-Marcelo-B">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Marcelo-B&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Marcelo-B&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Joao-Marcelo-B&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Joao-Marcelo-B&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Marcelo-B&show_icons=true" />
+</picture>
