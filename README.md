@@ -26,7 +26,7 @@
 
 
 
-<h4> É comum para um programador frustar-se e passar raiva corrigindo bugs, porém a cada erro cometido é um novo aprendizado e ao fim de cada bug resolvido e projeto finalizado é uma vitória que traz felicidade e satisfação para nós, e essa mistura de frustações e satisfação que deixa esse mundo da programação tão interessante a apaixonante.</h4>
+<h4> É comum para um programador frustar-se e passar raiva corrigindo bugs, porém a cada erro cometido é um novo aprendizado e ao fim de cada bug resolvido e projeto finalizado é uma vitória que traz felicidade e satisfação para nós, e essa mistura de frustações e satisfação que deixa esse mundo da programação tão interessante e apaixonante.</h4>
 
 <!--
 <div align="center">
