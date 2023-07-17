@@ -5,7 +5,6 @@
 <p>Meu GitHub serve como um portifólio com meus projetos, neles contém toda minha trajetória e experiências obtidas por meio dos estudos de programação</p>
 
 <h3>Um pouco sobre mim: </h3>
-<p>- Moro em Alfenas/MG</p>
 <p>- Estudante de Ciência da Computação</p>
 <p>- Sou apaixonado em programação e estou sempre buscando meios de me atualizar e obter novos conhecimentos, estou focado em me tornar um ótimo programador e um também um ótimo profissional</p>
 <p>- Sou denvolvedor web com foco no Back-end</p>
